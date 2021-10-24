@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TheMovieDB/static/css/main.dd073b9f.chunk.css",
+    "main.js": "/TheMovieDB/static/js/main.96850ef9.chunk.js",
+    "main.js.map": "/TheMovieDB/static/js/main.96850ef9.chunk.js.map",
+    "runtime-main.js": "/TheMovieDB/static/js/runtime-main.0d268aa4.js",
+    "runtime-main.js.map": "/TheMovieDB/static/js/runtime-main.0d268aa4.js.map",
+    "static/js/2.ee9ee379.chunk.js": "/TheMovieDB/static/js/2.ee9ee379.chunk.js",
+    "static/js/2.ee9ee379.chunk.js.map": "/TheMovieDB/static/js/2.ee9ee379.chunk.js.map",
+    "static/js/3.c13e0944.chunk.js": "/TheMovieDB/static/js/3.c13e0944.chunk.js",
+    "static/js/3.c13e0944.chunk.js.map": "/TheMovieDB/static/js/3.c13e0944.chunk.js.map",
+    "index.html": "/TheMovieDB/index.html",
+    "static/css/main.dd073b9f.chunk.css.map": "/TheMovieDB/static/css/main.dd073b9f.chunk.css.map",
+    "static/js/2.ee9ee379.chunk.js.LICENSE.txt": "/TheMovieDB/static/js/2.ee9ee379.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d268aa4.js",
+    "static/js/2.ee9ee379.chunk.js",
+    "static/css/main.dd073b9f.chunk.css",
+    "static/js/main.96850ef9.chunk.js"
+  ]
+}
