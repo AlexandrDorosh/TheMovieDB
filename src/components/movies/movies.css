@@ -1,0 +1,19 @@
+.movies_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #282c34;
+    color: #e1e3e7;
+}
+.movies{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.top_movies_with_search{
+    display: flex;
+    align-items: center;
+    column-gap: 100px;
+}

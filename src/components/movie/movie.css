@@ -1,0 +1,37 @@
+.link_movie{
+    text-decoration: none;
+}
+
+.movies_input{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.movie{
+    width: 220px;
+    height: 420px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #357185;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.movies_posters{
+    width: 200px;
+    height: 300px;
+    margin-top: 15px;
+    transition: 1s;
+}
+
+.movie:hover .movies_posters{
+    -webkit-transform: scale(1.1);
+}
+
+.title{
+    padding: 0 10px 0 10px;
+    color: #e1e3e7;
+}

@@ -1,0 +1,44 @@
+body{
+    background-color: #282c34;
+    color: #e1e3e7;
+}
+
+.movie_details_container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.movie_details{
+    width: 80%;
+    display: flex;
+}
+
+.movie_details h3{
+    margin: 0 0 20px 0;
+}
+
+.movie_details_poster{
+    width: 400px;
+    height: 500px;
+    margin-right: 50px;
+}
+
+.movie_details_description{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.movie_details_genre{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movie_details_genre p{
+    margin: 0 10px;
+}
+
+.movie_details_info{
+    color: rgb(47, 104, 119);
+}

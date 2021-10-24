@@ -1,0 +1,7 @@
+.homePage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #e1e3e7;
+}
